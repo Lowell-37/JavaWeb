@@ -1,0 +1,39 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(Ô€Ÿ¢úÿÿÿÿ
+J
+java:S3740j"/Provide the parametrized type for this generic.(Ò¿óÑÿÿÿÿÿ
+k	java:S116"QRename this field "DRIVER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ ©èýÿÿÿÿ
+h	java:S116"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Äœ¶ÿÿÿÿÿ
+i	java:S116"ORename this field "USER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âãíªþÿÿÿÿ
+h	java:S116"NRename this field "PWD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ý¯ô¦øÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(€ ©èýÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(¥Äœ¶ÿÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(âãíªþÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(Ý¯ô¦øÿÿÿÿ
+O
+java:S5993"9Change the visibility of this constructor to "protected".(ï•Ú‹
+Q
+java:S6437-"6Revoke and change this password, as it is compromised.(½˜þàùÿÿÿÿ
+B
+java:S3011o",This accessibility update should be removed.(˜ÂÓ˜
+G
+java:S3011p",This accessibility bypass should be removed.(Ÿ›Æùÿÿÿÿ
+=
+java:S1168“"&Return an empty array instead of null.(¥¹ï
+\
+java:S2147±"ECombine this catch with the one at line 175, which has the same body.(Å¡ß
+\
+java:S2147³"ECombine this catch with the one at line 175, which has the same body.(¯žáè
+O
+java:S1874¦"3Remove this use of "newInstance"; it is deprecated.(ªÖ‰ùÿÿÿÿ
+\
+java:S2147Ø"ECombine this catch with the one at line 214, which has the same body.(Å¡ß
+\
+java:S2147Ú"ECombine this catch with the one at line 214, which has the same body.(¯žáè
+O
+java:S1874Í"3Remove this use of "newInstance"; it is deprecated.(ªÖ‰ùÿÿÿÿ

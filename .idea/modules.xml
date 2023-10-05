@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pro16-fruit2.1-mvc-controller/pro16-fruit2.1-mvc-controller.iml" filepath="$PROJECT_DIR$/pro16-fruit2.1-mvc-controller/pro16-fruit2.1-mvc-controller.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/other/Day8-mvc-filter-transaction-listener/代码/pro20-fruit2.3-mvc-transaction/pro20-fruit2.3-mvc-transaction.iml" filepath="$USER_HOME$/Desktop/other/Day8-mvc-filter-transaction-listener/代码/pro20-fruit2.3-mvc-transaction/pro20-fruit2.3-mvc-transaction.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/other/Day9-qqzone/代码/pro21-qqzone1.0/pro21-qqzone1.0.iml" filepath="$USER_HOME$/Desktop/other/Day9-qqzone/代码/pro21-qqzone1.0/pro21-qqzone1.0.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/other/Day10-qqzone/代码/pro22-qqzone1.0/pro22-qqzone1.0.iml" filepath="$USER_HOME$/Desktop/other/Day10-qqzone/代码/pro22-qqzone1.0/pro22-qqzone1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project13-fruit1.8-mvc/project13-fruit1.8-mvc.iml" filepath="$PROJECT_DIR$/project13-fruit1.8-mvc/project13-fruit1.8-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project14-fruit1.9-mvc-reflect/project14-fruit1.9-mvc-reflect.iml" filepath="$PROJECT_DIR$/project14-fruit1.9-mvc-reflect/project14-fruit1.9-mvc-reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project15-fruit2.0-mvc-dispatcherServlet/project15-fruit2.0-mvc-dispatcherServlet.iml" filepath="$PROJECT_DIR$/project15-fruit2.0-mvc-dispatcherServlet/project15-fruit2.0-mvc-dispatcherServlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project16-fruit2.1-mvc-controller/project16-fruit2.1-mvc-controller.iml" filepath="$PROJECT_DIR$/project16-fruit2.1-mvc-controller/project16-fruit2.1-mvc-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project17-fruit2.2-mvc-service-ioc/project17-fruit2.2-mvc-service-ioc.iml" filepath="$PROJECT_DIR$/project17-fruit2.2-mvc-service-ioc/project17-fruit2.2-mvc-service-ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project18-servlet-api/project18-servlet-api.iml" filepath="$PROJECT_DIR$/project18-servlet-api/project18-servlet-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project19-filter-listener/project19-filter-listener.iml" filepath="$PROJECT_DIR$/project19-filter-listener/project19-filter-listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project20-fruit2.2-mvc-transaction/project20-fruit2.2-mvc-transaction.iml" filepath="$PROJECT_DIR$/project20-fruit2.2-mvc-transaction/project20-fruit2.2-mvc-transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project21-qqzone-1.0/project21-qqzone-1.0.iml" filepath="$PROJECT_DIR$/project21-qqzone-1.0/project21-qqzone-1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project22-qqzone-1.0/project22-qqzone-1.0.iml" filepath="$PROJECT_DIR$/project22-qqzone-1.0/project22-qqzone-1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project23-qqzone-2.0/project23-qqzone-2.0.iml" filepath="$PROJECT_DIR$/project23-qqzone-2.0/project23-qqzone-2.0.iml" />
+    </modules>
+  </component>
+</project>

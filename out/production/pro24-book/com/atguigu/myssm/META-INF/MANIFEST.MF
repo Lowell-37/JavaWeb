@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: druid-1.2.9.jar ognl-3.1.26.jar log4j-1.2.15.jar slf4j-api-1
+ .7.25.jar javassist-3.20.0-GA.jar slf4j-log4j12-1.7.25.jar unbescape-1.
+ 1.6.RELEASE.jar attoparser-2.0.5.RELEASE.jar thymeleaf-3.0.12.RELEASE.j
+ ar druid-1.2.9.jar
+

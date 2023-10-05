@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="myssm">
+    <output-path>$PROJECT_DIR$/out/artifacts/myssm</output-path>
+    <root id="archive" name="myssm.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/project22-qqzone-1.0/src/com/lowell/myssm" />
+    </root>
+  </artifact>
+</component>

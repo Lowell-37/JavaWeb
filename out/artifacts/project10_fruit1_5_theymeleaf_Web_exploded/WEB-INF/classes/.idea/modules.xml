@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaWeb.iml" filepath="$PROJECT_DIR$/.idea/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project07-begin-servlet/project07-begin-servlet.iml" filepath="$PROJECT_DIR$/project07-begin-servlet/project07-begin-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project08-servlet/project08-servlet.iml" filepath="$PROJECT_DIR$/project08-servlet/project08-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project09-fruit1.4-thymeleaf/project09-fruit1.4-thymeleaf.iml" filepath="$PROJECT_DIR$/project09-fruit1.4-thymeleaf/project09-fruit1.4-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project10-fruit1.5-theymeleaf/project10-fruit1.5-theymeleaf.iml" filepath="$PROJECT_DIR$/project10-fruit1.5-theymeleaf/project10-fruit1.5-theymeleaf.iml" />
+    </modules>
+  </component>
+</project>
